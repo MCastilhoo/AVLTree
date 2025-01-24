@@ -33,7 +33,7 @@ O código também inclui a solução para o problema proposto no link acima. Ess
 1. Certifique-se de ter o **Java Development Kit (JDK)** instalado em sua máquina.  
 2. Clone este repositório:  
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/MCastilhoo/AVLTree/tree/main
    ```
 3. Navegue até o diretório do projeto:
     ```bash
